@@ -1,0 +1,10 @@
+.theitem{ border-bottom: solid black;
+    
+}
+#btn-like{
+    width: 50mm; height: 10mm;
+}
+.shopptotalprice{height: 20mm;
+font-size: 20mm;}
+.prx {font-size: 10mm;}
+.btn-like{background-color: black;color: white;}
